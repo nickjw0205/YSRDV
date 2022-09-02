@@ -5,6 +5,8 @@ get Youtube Search Result and Download Videos
 ```
 pip3 install -r requirements.txt
 ```
+Please download the chrome driver that fits your chrome version.
+[Download link](https://chromedriver.chromium.org/downloads)
 
 ## Usage
 Get search result(links) to csv
