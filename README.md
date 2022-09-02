@@ -2,13 +2,11 @@
 get Youtube Search Result and Download Videos
 
 ## Installation
----
 ```
 pip3 install -r requirements.txt
 ```
 
 ## Usage
----
 Get search result(links) to csv
 ```
 python main.py --csv_path "path_for_csv" --keyword "search_words" --scroll num_of_scroll_you_want"
